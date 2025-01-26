@@ -176,6 +176,8 @@ namespace _02_Variables
 
             //char gender;
             //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
             //Console.WriteLine("Lütfen cinsiyet seçiniz : ");
             //gender = char.Parse(Console.ReadLine());
